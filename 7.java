@@ -23,7 +23,7 @@ class employee
 			System.out.print("Employee number:");
 			no[i].empno=sc.nextInt();
 
-            sc.nextLine();
+                        sc.nextLine();
 			System.out.print("Employee name:");
 			no[i].empname=sc.nextLine();
 
