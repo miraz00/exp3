@@ -1,7 +1,7 @@
 import java.util.*;
 class main
 {
-    void factorial(int n)
+                void factorial(int n)
 		{
 			int f=1,i;
 			for(i=1;i<=n;i++)
